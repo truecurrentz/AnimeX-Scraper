@@ -7,6 +7,7 @@ THE DOCUMENTATION/README WAS MADE BY AN AI SO IT MIGHT NOT BE ACCURATE
 ```bash
 npm install
 node index.js
+git clone https://github.com/truecurrentz/AnimeX-Scraper
 ```
 
 Runs on port `5500` by default. Set a custom port with the `PORT` environment variable.
