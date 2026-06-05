@@ -1,6 +1,6 @@
 # animex-api
 
-A lightweight REST API for fetching anime episodes and HLS streams from [animex.one](https://animex.one), using AniList IDs as the primary identifier.
+THE DOCUMENTATION/README WAS MADE BY AN AI SO IT MIGHT NOT BE ACCURATE
 
 ## Setup
 
